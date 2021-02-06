@@ -2,7 +2,8 @@
 title: "Halluomi Red Onion Pasta"
 ---
 
-So, this started a long time ago in my repertoire as [this](https://www.bbc.co.uk/food/recipes/pastawithhaloumiandr_81586) recipe and wondering what on earth can I cook tonight? It's evolved a fair bit from there in how I approached the method, and been enriched in terms of the ingredients we use too. 
+So, this started a long time ago in my repertoire as [this](https://www.bbc.co.uk/food/recipes/pastawithhaloumiandr_81586) recipe and wondering what on earth can I cook tonight? 
+It's evolved a fair bit from there in how I approached the method, and been enriched in terms of the ingredients we use too. 
 
 ## Mise en place
 
@@ -40,7 +41,7 @@ i.e. Salt, Pepper, Oil.
 
 **Fry the halloumi**
 
-Heat the oil to a high/medium high heat and add the chilli, wait for it to be fragrant and add the halloumi, fry stirring semi-frequently until a golden brown is achieved all over the halloumi, then remove from the pan and set aside.
+Heat the oil to a high/medium high heat and add the chilli, wait for it to be fragrant and add the halloumi, fry, stirring semi-frequently until a golden brown is achieved all over the halloumi, then remove from the pan and set aside.
 
 **Fry the onions**
 
