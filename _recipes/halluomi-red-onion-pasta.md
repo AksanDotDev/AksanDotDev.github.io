@@ -5,7 +5,7 @@ title: "Halluomi Red Onion Pasta"
 So, this started a long time ago in my repertoire as [this](https://www.bbc.co.uk/food/recipes/pastawithhaloumiandr_81586) recipe and wondering what on earth can I cook tonight? 
 It's evolved a fair bit from there in how I approached the method, and been enriched in terms of the ingredients we use too. 
 
-## Mise en place
+# Mise en place
 
 * **Halloumi** debrined, dried and cubed
 
@@ -36,7 +36,7 @@ Portion as you normally would, if you make fresh pasta that's fantastic, else I 
 
 i.e. Salt, Pepper, Oil.
 
-## Method
+# Method
 
 
 **Fry the halloumi**
@@ -64,5 +64,5 @@ This should be just before the pasta is ready to be added, but stirring though w
 
 Reduce the pan to a low heat and add the pasta and toss in the sauce, if needed add the reserved pasta water until you are happy with the sauce consistency, stir through the halloumi once happy. 
 
-## Serve
+# Serve
 Typically using tongs or a fork to make nests of pasta followed by piling the rest of the sauce on top is my go to, but this is obviously down to personal taste.

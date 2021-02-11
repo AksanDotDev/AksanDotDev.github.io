@@ -7,7 +7,7 @@ Honestly a point of feeling like I'd made it, as I started to cook a lot of dish
 
 ---
 
-## Mise en place
+# Mise en place
 
 * **Tomatoes**, finely chopped or blended
 
@@ -40,7 +40,7 @@ I'm not sure what to say on this, but for many uses of this sauce I add spinach,
 
 * **Tomato Puree**, 2-3 tablespoons
 
-## Method
+# Method
 
 **Fry the onions with the chilli**
 
@@ -60,6 +60,6 @@ This may seem odd but adding and frying this begins the base of flavour and help
 Reduce to a low heat, as low as possible based on how much time you have and simmer for at least 30 minutes, but up to 3 hours if you have the time.
 If you do simmer for a longer time consider covering or be ready to slack the sauce with stock or pasta water when you come to use it. 
 
-## Serve
+# Serve
 
 Once it has simmered the sauce is ready for whatever purpose, reunite it with the protein you fried off earlier or with anything else to start putting the dish together.

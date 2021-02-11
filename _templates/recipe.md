@@ -10,17 +10,17 @@ Preamble
 
 ---
 
-## Mise en place
+# Mise en place
 
 * **Ingredient** Form
 
 Details
 
-## Method
+# Method
 
 **Step Name**
 
 Details
 
-## Serve
+# Serve
 Paragraph

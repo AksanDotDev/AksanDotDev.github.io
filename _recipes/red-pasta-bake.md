@@ -15,7 +15,7 @@ N.B. This uses this [Tomato Sauce](/recipes/tomato-sauce) recipe, but you can su
 
 ---
 
-## Mise en place
+# Mise en place
 
 * **[Mise en Place for the Sauce](/recipes/tomato-sauce)** 
 
@@ -47,7 +47,7 @@ Fresh is always best, but this is a recipe that can be easier with dried, partic
 
 i.e. Salt, Pepper, Oil.
 
-## Method
+# Method
 
 **Fry the protein**
 
@@ -79,7 +79,7 @@ So baking can vary from 10-20 minutes, normally on the shorter side of that, and
 The point you are baking towards though is *gratination* this is after the cheese has melted and when it darkens, in effect this baking step is like making cheese on toast and you're looking for the same process.
 If you've chosen to prepare and bake seperately then you make want to up this time to the region of 30 minutes with a foil covering for the first 15 or so. 
 
-## Serve
+# Serve
 
 Pair with an italian style salad for a balanced dinner or heap into a bowl on your lap for a comforting winter warmer.
 My partner particularly enjoys this baked again the day after as twice cooked pasta is just a wonderful thing so let the leftovers cool and bake again under foil until hot through and serve in the same way.
