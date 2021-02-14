@@ -1,5 +1,5 @@
 ---
-title: "Halluomi Red Onion Pasta"
+title: "Halloumi Red Onion Pasta"
 ---
 
 So, this started a long time ago in my repertoire as [this](https://www.bbc.co.uk/food/recipes/pastawithhaloumiandr_81586) recipe and wondering what on earth can I cook tonight? 
@@ -7,7 +7,7 @@ It's evolved a fair bit from there in how I approached the method, and been enri
 
 ---
 
-![Crisp Halluomi, soft pink onion cresents and herbs heaped over fresh pasta](/assets/images/halluomi-red-onion-pasta.png)
+![Crisp Halloumi, soft pink onion cresents and herbs heaped over fresh pasta](/assets/images/halloumi-red-onion-pasta.png)
 
 ---
 
@@ -37,7 +37,7 @@ It can be done with fresh or frozen fresh chillies to good effect but will lose 
 * **Pasta**, ready to cook
 
 Portion as you normally would, if you make fresh pasta that's fantastic, else I would recommend Tagliatelle Paglia e Fieno, or a colourful Farfalle, but this can mostly be personal choice as long as it is apt for the sauce.
-(If possible reserving the debrining water from soaking the salt out of the halluomi is a great base for the pasta pot.)
+(If possible reserving the debrining water from soaking the salt out of the halloumi is a great base for the pasta pot.)
 
 * **The Usual**
 
@@ -67,7 +67,7 @@ Once happy with the onion, add the citrus juice and stir well through letting th
 
 This should be just before the pasta is ready to be added, but stirring though with the citrus juice can be done in a pinch.
 
-**Add the pasta, then halluomi**
+**Add the pasta, then halloumi**
 
 Reduce the pan to a low heat and add the pasta and toss in the sauce, if needed add the reserved pasta water until you are happy with the sauce consistency, stir through the halloumi once happy. 
 
