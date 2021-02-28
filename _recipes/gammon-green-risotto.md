@@ -1,5 +1,5 @@
 ---
-title: "Gammon Pea and Greens Risotto"
+title: "Gammon, Pea and Greens Risotto"
 ---
 
 A recipe that came from the fusion of my love of cheese and ham and creamy risottos and my best friend's love of greens in her food this has become a lovely treat and something everyone is fond of.
