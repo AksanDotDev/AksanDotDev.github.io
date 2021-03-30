@@ -20,7 +20,7 @@ title                    : "Aksan.Dev"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "A J S Dewfall"
-description              : "A J S \"Aksan\" Dewfall's personal blog, and portfolio site, expect code projects, recipes, and other public fracing projects."
+description              : "A J S \"Aksan\" Dewfall's personal blog, and portfolio site, expect code projects, recipes, and other public facing projects."
 url                      : "https://www.aksan.dev" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "AksanDotDev/AksanDotDev.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
